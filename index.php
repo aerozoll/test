@@ -12,5 +12,5 @@ $team1->attachObserver($fan2);
 
 $team1->notify();
 <html>
-<h1>Изменения гит</h>
+<h1>Изменения гит</h> <h1>Изменения №2 гит</h>
 </html>
